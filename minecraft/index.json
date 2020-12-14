@@ -1,0 +1,26 @@
+[
+    {
+      "name": "spigot-1.16.4.jar",
+      "type": "bukkit",
+      "tree": "spigot",
+      "url": "https://cdn.jsdelivr.net/gh/negoces/jscdn@main/minecraft/spigot/spigot-1.16.4.jar.xz"
+    },
+    {
+      "name": "spigot-1.15.2.jar",
+      "type": "bukkit",
+      "tree": "spigot",
+      "url": "https://cdn.jsdelivr.net/gh/negoces/jscdn@main/minecraft/spigot/spigot-1.15.2.jar.xz"
+    },
+    {
+      "name": "spigot-1.14.4.jar",
+      "type": "bukkit",
+      "tree": "spigot",
+      "url": "https://cdn.jsdelivr.net/gh/negoces/jscdn@main/minecraft/spigot/spigot-1.14.4.jar.xz"
+    },
+    {
+      "name": "spigot-1.12.2.jar",
+      "type": "bukkit",
+      "tree": "spigot",
+      "url": "https://cdn.jsdelivr.net/gh/negoces/jscdn@main/minecraft/spigot/spigot-1.12.2.jar.xz"
+    }
+  ]
